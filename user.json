@@ -1,0 +1,5 @@
+[
+  { "username": "YanScript", "apikey": "YS-001", "role": "owner" },
+  { "username": "Faye", "apikey": "FA-002", "role": "admin" },
+  { "username": "Kenzo", "apikey": "KZ-003", "role": "member" }
+]
